@@ -10,3 +10,7 @@ Implementacion del algoritmo K-Means de manera concurrente, codificado en el len
     docker run -p 8080:8080 concurrente_final
 ![image](https://github.com/GleiderCastro/Algoritmo-K-Means-Concurrente-en-lenguaje-GO./assets/81375850/791d2be6-fe1b-4eba-9ab2-a5cf187927b5)
 
+## 2. Cargamos el sistema, y ejecutamos en el localhost:
+### -Abrimos un navegador y buscamos lo siguiente:
+    localhost:8080
+![image](https://github.com/GleiderCastro/Algoritmo-K-Means-Concurrente-en-lenguaje-GO./assets/81375850/7c2866ad-29b3-491f-a396-554550104ea5)
